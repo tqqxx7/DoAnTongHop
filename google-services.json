@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588041200049",
+    "firebase_url": "https://doantonghop-9e126.firebaseio.com",
+    "project_id": "doantonghop-9e126",
+    "storage_bucket": "doantonghop-9e126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588041200049:android:ca11001491dddd3bdedd90",
+        "android_client_info": {
+          "package_name": "com.bp.doantonghop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588041200049-ln9fmcab812rqvsl8rl8h06gd4i6rmvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bp.doantonghop",
+            "certificate_hash": "350ecd88370c11aa18f0e08519a915efbe83e48c"
+          }
+        },
+        {
+          "client_id": "588041200049-ead9dai03s89cl9np9nffdskmb65dq9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxXdtzrr7RWZHQE2pCF2HaGuZfmrTo1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588041200049-ead9dai03s89cl9np9nffdskmb65dq9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
